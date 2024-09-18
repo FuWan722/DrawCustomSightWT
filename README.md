@@ -1,4 +1,4 @@
-This small project is meant to allow you to draw on an existing image and create a .blk file for war thunder sight.
+# This small project is meant to allow you to draw on an existing image and create a .blk file for war thunder sight.
 
 There are 3 python files in the folder:
 
